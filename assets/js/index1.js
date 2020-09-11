@@ -29,7 +29,7 @@ $(function() {
             var first = username[0].toUpperCase()
             $('.tou')
                 .html(first)
-                .show()
+                .show();;;
         }
     }
     $('.logOut').on('click', function() {
