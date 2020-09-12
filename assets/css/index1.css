@@ -1,0 +1,48 @@
+.iconfont {
+    margin-right: 8px;
+}
+
+.layui-icon {
+    margin-right: 5px;
+    margin-left: 20px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.layui-body {
+    overflow: hidden;
+}
+
+a {
+    transition: none !important;
+}
+
+.user-from {
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+}
+
+.layui-side-scroll .user-from {
+    border-bottom: 1px solid #282b33;
+}
+
+#iamg {
+    width: 40px;
+    height: 40px;
+}
+
+.tou {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 36px;
+    color: #fff;
+    margin-right: 5px;
+}
